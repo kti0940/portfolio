@@ -15,7 +15,7 @@
 기술스택 : Django / DRF / HTML / CSS / JavaScript /<br>
 Docker / EC2 / S3 / CloudFront / Route53 / PostgreSQL
 
-[GitHub Back-End](https://github.com/kti0940/gomunity)
+[GitHub Back-End](https://github.com/kti0940/gomunity)<br>
 [GitHub Front-End](https://github.com/kti0940/gomunity_fe)
 
 ---
@@ -26,7 +26,7 @@ Docker / EC2 / S3 / CloudFront / Route53 / PostgreSQL
 개발 인원 : 4인<br>
 기술스택 : Django / DRF / HTML / CSS / JavaScript / EC2 / S3 / CloudFront
 
-[GitHub Back-End](https://github.com/kti0940/yujeon_be)
+[GitHub Back-End](https://github.com/kti0940/yujeon_be)<br>
 [GitHub Front-End](https://github.com/kti0940/yujeon_fe)
 
 ---
