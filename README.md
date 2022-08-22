@@ -15,8 +15,8 @@
 기술스택 : Django / DRF / HTML / CSS / JavaScript /<br>
 Docker / EC2 / S3 / CloudFront / Route53 / PostgreSQL
 
-[GitHub Back-End](https://github.com/kti0940/gomunity)<br>
-[GitHub Front-End](https://github.com/kti0940/gomunity_fe)
+[프로젝트 상세보기 GitHub Back-End](https://github.com/kti0940/gomunity)<br>
+[프로젝트 상세보기 GitHub Front-End](https://github.com/kti0940/gomunity_fe)
 
 ---
 
@@ -26,8 +26,8 @@ Docker / EC2 / S3 / CloudFront / Route53 / PostgreSQL
 개발 인원 : 4인<br>
 기술스택 : Django / DRF / HTML / CSS / JavaScript / EC2 / S3 / CloudFront
 
-[GitHub Back-End](https://github.com/kti0940/yujeon_be)<br>
-[GitHub Front-End](https://github.com/kti0940/yujeon_fe)
+[프로젝트 상세보기 GitHub Back-End](https://github.com/kti0940/yujeon_be)<br>
+[프로젝트 상세보기 GitHub Front-End](https://github.com/kti0940/yujeon_fe)
 
 ---
 
@@ -37,6 +37,8 @@ Docker / EC2 / S3 / CloudFront / Route53 / PostgreSQL
 개발 인원 : 4인<br>
 기술스택 : Django / HTML / CSS / JavaScript / EC2
 
+[프로젝트 상세보기](https://github.com/kti0940/cook_alone)
+
 ---
 
 ## 4. [AI Chameleon](https://github.com/kti0940/ai_chameleon)
@@ -45,6 +47,8 @@ Docker / EC2 / S3 / CloudFront / Route53 / PostgreSQL
 개발 인원 : 4인<br>
 기술스택 : Flask / HTML / CSS / JavaScript / MongoDB / Pytorch / ScikitLearn
 
+[프로젝트 상세보기](https://github.com/kti0940/ai_chameleon)
+
 ---
 
 ## 5. [Instagram Clone Project](https://github.com/kti0940/kingkong_instagram_project)
@@ -52,3 +56,5 @@ Docker / EC2 / S3 / CloudFront / Route53 / PostgreSQL
 개발 기간 : 2022-05-03~05-10<br>
 개발 인원 : 4인<br>
 기술스택 : Flask / HTML / CSS / JavaScript / MongoDB
+
+[프로젝트 상세보기](https://github.com/kti0940/kingkong_instagram_project)
