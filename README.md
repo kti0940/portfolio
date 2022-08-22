@@ -15,8 +15,8 @@
 >기술스택 : Django / DRF / HTML / CSS / JavaScript /<br>
 >Docker / EC2 / S3 / CloudFront / Route53 / PostgreSQL
 >
->[프로젝트 상세 설명 GitHub Back-End](https://github.com/kti0940/gomunity)참고<br>
->[프로젝트 상세 설명 GitHub Front-End](https://github.com/kti0940/gomunity_fe)참고
+>[프로젝트 상세 설명 GitHub Back-End](https://github.com/kti0940/gomunity) 참고<br>
+>[프로젝트 상세 설명 GitHub Front-End](https://github.com/kti0940/gomunity_fe) 참고
 
 ---
 
@@ -26,8 +26,8 @@
 >개발 인원 : 4인<br>
 >기술스택 : Django / DRF / HTML / CSS / JavaScript / EC2 / S3 / CloudFront
 >
->[프로젝트 상세 설명 GitHub Back-End](https://github.com/kti0940/yujeon_be)참고<br>
->[프로젝트 상세 설명 GitHub Front-End](https://github.com/kti0940/yujeon_fe)참고
+>[프로젝트 상세 설명 GitHub Back-End](https://github.com/kti0940/yujeon_be) 참고<br>
+>[프로젝트 상세 설명 GitHub Front-End](https://github.com/kti0940/yujeon_fe) 참고
 
 ---
 
@@ -37,7 +37,7 @@
 >개발 인원 : 4인<br>
 >기술스택 : Django / HTML / CSS / JavaScript / EC2
 >
->[프로젝트 상세 설명](https://github.com/kti0940/cook_alone)참고
+>[프로젝트 상세 설명](https://github.com/kti0940/cook_alone) 참고
 
 ---
 
@@ -47,7 +47,7 @@
 >개발 인원 : 4인<br>
 >기술스택 : Flask / HTML / CSS / JavaScript / MongoDB / Pytorch / ScikitLearn
 >
->[프로젝트 상세 설명](https://github.com/kti0940/ai_chameleon)참고
+>[프로젝트 상세 설명](https://github.com/kti0940/ai_chameleon) 참고
 
 ---
 
@@ -57,4 +57,4 @@
 >개발 인원 : 4인<br>
 >기술스택 : Flask / HTML / CSS / JavaScript / MongoDB
 >
->[프로젝트 상세 설명](https://github.com/kti0940/kingkong_instagram_project)참고
+>[프로젝트 상세 설명](https://github.com/kti0940/kingkong_instagram_project) 참고
