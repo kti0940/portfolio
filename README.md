@@ -1,14 +1,12 @@
 # 김태인 포트폴리오
-----
+
 
 # 📌 Contact
-----
 - 이메일 : kti0940@gmail.com
 - 벨로그 : https://velog.io/@kti0940
 - 깃허브 : https://github.com/kti0940
 
 # 📌 Projects
------
 ## 1. [Gomunity](https://github.com/kti0940/gomunity)
 > ### 초보 개발자 질의응답 커뮤니티 서비스<br>
 개발 기간 : 2022-07-07~08-16<br>
