@@ -1,5 +1,10 @@
 # 김태인 포트폴리오
 
+# 📌 Intro
+- 상상한것을 만드는 개발자들을 늘 동경하다 개발자의 길로 들어섰습니다.
+- “기억보단 기록을" 이라는 말을 좋아합니다. 디버깅 과정과 궁금했던 지식들을 습득할때 [문서화](https://velog.io/@kti0940/django-SETNULL-%EC%98%B5%EC%85%98%EA%B3%BC-%EC%8B%9C%EB%A6%AC%EC%96%BC%EB%9D%BC%EC%9D%B4%EC%A0%80-%EC%A0%80%EC%9E%A5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C-immutable-QueryDict)를 통해 내가 배운것을 잊지 않으려 노력합니다.
+- 효율과 결과에 대해 이게 정말 최선인가?를 늘 궁금해하며 고민합니다.
+- 자기 발전을 좋아해 독서를 좋아하며, 커뮤니케이션에 관심이 많습니다.
 
 # 📌 Contact
 - 이메일 : kti0940@gmail.com
