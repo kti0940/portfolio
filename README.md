@@ -6,11 +6,6 @@
 - 효율과 결과에 대해 이게 정말 최선인가?를 늘 궁금해하며 고민합니다.
 - 자기 발전을 좋아해 독서를 좋아하며, 커뮤니케이션에 관심이 많습니다.
 
-# 📌 Contact
-- 이메일 : kti0940@gmail.com
-- 벨로그 : https://velog.io/@kti0940
-- 깃허브 : https://github.com/kti0940
-
 # 📌 Projects
 ## 1. [Gomunity](https://github.com/kti0940/gomunity)
 > ### 초보 개발자 질의응답 커뮤니티 서비스<br>
